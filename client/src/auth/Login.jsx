@@ -5,7 +5,7 @@ const Login = () => {
     <>
       <div className="w-full h-full bg-[url('https://www.mbbank.com.vn/images/hp_bg_special_product.png')] flex justify-center items-center gap-3 fixed top-[50%] left-[50%] translate-y-[-50%] translate-x-[-50%]">
         <img
-          className="w-[30%]"
+          className="w-[30%] hidden lg:block"
           src="https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones-2x.png?__makehaste_cache_breaker=73SVAexZgBW"
           alt=""
         />

@@ -1,10 +1,9 @@
 import "./App.css";
-import Register from "./auth/Register";
-
+import Login from "./auth/Login";
 function App() {
   return (
     <>
-      <Register />
+      <Login></Login>
     </>
   );
 }
